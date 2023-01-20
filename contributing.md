@@ -1,11 +1,5 @@
 # Contributing Guidelines
 
-- Add single resource in one pull request as it will allow for easier review.
+- if you wanna add new resource please do it to [origin repository](https://github.com/bradtraversy/design-resources-for-developers), i'll update this.
 
-- Pull request title should include resource name and resource section.
-  - Example: `[Tailwind CSS] -> [CSS Frameworks]`
-
-- Provide a link to submitted resource in pull request comment section for easier access without copy paste.
-  - Example: `Link: https://tailwindcss.com/`
-
-- Double check if the resource is truly free without any kind of hidden surprises.
+- This repo was created to kill duplicates (by url) and added images for faster navigation!
